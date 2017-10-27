@@ -9,6 +9,8 @@ public static void main(String[] args) {
         m.pesan = "Halooo,,,";
         m.bilBulat = 5;
         m.bilDesimal = 3.14;
+        
+        m.cetakAttribute();
        
     }
     
